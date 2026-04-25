@@ -6,8 +6,7 @@ An end-to-end AI-powered Resume Screening System that predicts job roles, matche
 
 ## 🔥 Live Demo
 
-👉 https://your-app-link.streamlit.app
-*(Replace this with your deployed link)*
+👉 https://https://hiresense-ai-khushbu.streamlit.app/
 
 ---
 
